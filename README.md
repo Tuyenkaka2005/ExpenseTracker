@@ -1,7 +1,7 @@
-<img width="220"  alt="dashboard" src="https://github.com/user-attachments/assets/37251bf9-c089-486d-96e9-5d9078b7414f" />
-<img width="220"  alt="add-expense" src="https://github.com/user-attachments/assets/d2aae060-fcc3-4610-90e4-7117920fdfe5" />
-<img width="220"  alt="darkmode" src="https://github.com/user-attachments/assets/d3ac2207-edd0-4468-acb3-0b56bd04737f" />
-<img width="220" alt="delete" src="https://github.com/user-attachments/assets/e8bdf763-fa42-4a64-99fe-0596c4ffd66a" />
+<img width="210"  alt="dashboard" src="https://github.com/user-attachments/assets/37251bf9-c089-486d-96e9-5d9078b7414f" />
+<img width="210"  alt="add-expense" src="https://github.com/user-attachments/assets/d2aae060-fcc3-4610-90e4-7117920fdfe5" />
+<img width="210"  alt="darkmode" src="https://github.com/user-attachments/assets/d3ac2207-edd0-4468-acb3-0b56bd04737f" />
+<img width="210" alt="delete" src="https://github.com/user-attachments/assets/e8bdf763-fa42-4a64-99fe-0596c4ffd66a" />
 
 
 # 💸 Expense Tracker App
